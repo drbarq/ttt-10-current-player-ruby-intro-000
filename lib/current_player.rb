@@ -4,19 +4,12 @@
 def turn_count(board)
 turnsLeft = 0
   board.each do |space|
-
     if space == " "
       turnsLeft = turnsLeft + 1
-
     end
-    ##puts space
-
-
-
   end
   puts turnsLeft
   return turnsLeft
-
 end
 
 
