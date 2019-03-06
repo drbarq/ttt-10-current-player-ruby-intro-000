@@ -7,7 +7,7 @@ def turn_count(board)
     count[space]
     count += 1
   end
-end 
+end
 
 
 
