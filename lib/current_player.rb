@@ -15,11 +15,11 @@ end
 
 
 def current_player(board)
-  if turn_count == 0
+  if turn_count(board) == 0
     puts "X start the game"
     return "X"
   end
-  if turn_count.even
+  if turn_count(board).even
     puts "O"
     return "O"
   else
