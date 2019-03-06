@@ -5,10 +5,9 @@ def turn_count(board)
 
   board.each do |space|
 
-    if board[counter] == " "
-      puts  1
+    puts board
+      
     end
-    puts 2
   end
 end
 
