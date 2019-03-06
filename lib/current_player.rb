@@ -4,7 +4,7 @@
 def turn_count(board)
 
   board.each do |space|
-    
+
     if board[counter] == "X"
       puts  1
     end
