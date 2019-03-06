@@ -5,7 +5,7 @@ def turn_count(board)
 turnsTaken = 0
   board.each do |space|
     if space != " "
-      turnsTaken =+ 1
+      turnsTaken += 1
     end
   end
   puts turnsTaken
