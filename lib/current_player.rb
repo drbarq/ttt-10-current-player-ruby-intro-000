@@ -8,7 +8,7 @@ turnsLeft = 9
       turnsLeft =- 1
       
       puts "space here"
-    end 
+    end
     ##puts space
 
 
