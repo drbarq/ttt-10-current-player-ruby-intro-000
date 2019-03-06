@@ -7,7 +7,7 @@ def turn_count(board)
     if |space| == "X"
       count =+ 1
     end
-    if |space| == "O"
+    if #{space[counter]} == "O"
       count =+ 1
     end
   end
