@@ -7,7 +7,7 @@ def turn_count(board)
     if space == " "
       puts "space here"
 
-    puts space
+    ##puts space
 
 
   end
