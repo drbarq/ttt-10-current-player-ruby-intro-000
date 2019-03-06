@@ -10,10 +10,11 @@ turnsLeft = 0
 
     end
     ##puts space
-      puts turnsLeft
+      
 
 
   end
+  puts turnsLeft
 end
 
 
