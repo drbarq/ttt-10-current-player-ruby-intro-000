@@ -2,14 +2,14 @@
 
 
 def turn_count(board)
-turnsLeft = 0
+turnsTaken = 0
   board.each do |space|
-    if space == " "
-      turnsLeft = turnsLeft + 1
+    if space != " "
+      turnsTaken = turnsTaken + 1
     end
   end
-  puts turnsLeft
-  return turnsLeft
+  puts turnsTaken
+  return turnsTaken
 end
 
 
