@@ -9,9 +9,9 @@ def turn_count(board)
     if |space| == "X"
       X =+ 1
       count =+ 1
-    end 
+    end
     if |space| == "O"
-      O =+ 1 
+      O =+ 1
       count =+ 1
     end 
   end
