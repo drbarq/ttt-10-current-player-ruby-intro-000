@@ -6,8 +6,8 @@ turnsLeft = 9
   board.each do |space|
     if space == " "
       turnsLeft =- 1
-      
-      puts "space here"
+
+      puts turnsLeft
     end
     ##puts space
 
