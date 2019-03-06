@@ -7,7 +7,7 @@ def turn_count(board)
     turnsLeft = 0
     if space == " "
       turnsLeft = turnsLeft + 1
-    
+
     end
     ##puts space
       puts turnsLeft
