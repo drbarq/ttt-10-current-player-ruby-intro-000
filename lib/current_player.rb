@@ -14,7 +14,7 @@ def turn_count(board)
     if |space| == "O"
       O =+ 1
       count =+ 1
-    end 
+    end
   end
 end
 
