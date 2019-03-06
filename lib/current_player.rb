@@ -15,6 +15,8 @@ turnsLeft = 0
 
   end
   puts turnsLeft
+  return turnsLeft
+
 end
 
 
