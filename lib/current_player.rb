@@ -7,6 +7,7 @@ def turn_count(board)
     if board[counter] == " "
       counter =+ 1
     end
+    puts counter
   end
 end
 
