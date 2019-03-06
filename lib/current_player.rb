@@ -10,7 +10,7 @@ turnsLeft = 0
 
     end
     ##puts space
-      
+
 
 
   end
