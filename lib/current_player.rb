@@ -24,12 +24,12 @@ def current_player(board)
   else
     puts "X"
   end
-end 
-
-
-
-
 end
+
+
+
+
+
 
 =begin
 names = ["Jason", "Jason", "Teresa", "Judah", "Michelle", "Judah", "Judah", "Allison"]
