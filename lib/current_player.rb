@@ -21,12 +21,12 @@ def current_player(board)
   end
   if turn_count.even
     puts "O"
-  else 
+  else
     puts "X"
-  end 
+  end
 end 
-  
-  
+
+
 
 
 end
