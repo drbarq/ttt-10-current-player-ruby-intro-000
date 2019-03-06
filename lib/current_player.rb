@@ -4,11 +4,11 @@
 def turn_count(board)
 
   board.each do |space|
-    counter = 0
+    
     if board[counter] == "X"
-      counter = counter + 1
+      puts  1
     end
-    puts counter
+    puts 2
   end
 end
 
