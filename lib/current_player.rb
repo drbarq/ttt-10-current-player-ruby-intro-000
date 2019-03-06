@@ -19,7 +19,7 @@ def current_player(board)
     puts "X start the game"
     return "X"
   end
-  if turn_count(board).even
+  if turn_count(board).even?
     puts "O"
     return "O"
   else
