@@ -7,7 +7,7 @@ def turn_count(board)
 
     puts |space|
 
-    
+
   end
 end
 
