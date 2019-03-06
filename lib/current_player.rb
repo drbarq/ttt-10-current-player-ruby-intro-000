@@ -6,7 +6,7 @@ def turn_count(board)
   board.each do |space|
 
     puts board
-      
+
     end
   end
 end
